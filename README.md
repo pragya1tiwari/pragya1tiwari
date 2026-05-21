@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Pragya Tiwari
 
-<!--
-**pragya1tiwari/pragya1tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics PhD with research experience in photonics, optics, and scientific computing, currently transitioning into data analytics, AI-driven workflows, and quantitative analysis.
 
-Here are some ideas to get you started:
+## Research & Technical Interests
+- Scientific Computing
+- Data Analytics
+- Machine Learning
+- Quantitative Analysis
+- AI for Scientific Research
+- Optical & Photonic Systems
+- Healthcare and Medical Physics Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Python for Data Analysis
+- SQL and Data Querying
+- Data Visualization
+- Machine Learning Fundamentals
+- Quantitative Finance & Analytics
+
+## Technical Tools
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Git & GitHub
+
+## Featured Projects
+- Machine Learning Prediction Models
+- Quantitative Market Analysis (in progress)
+- Scientific Data Visualization Projects (in progress)
+
+## Background
+I hold a PhD in Physics with experience in optics, photonics, biosensors, and scientific research. My current focus is building computational and analytical workflows that bridge physics, AI, and data-driven problem solving.
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/dr-pragya-tiwari
