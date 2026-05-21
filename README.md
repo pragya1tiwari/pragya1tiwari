@@ -1,4 +1,4 @@
-# Hi, I'm Pragya Tiwari :)
+# Hi, I'm Pragya Tiwari
 
 Physics PhD with research experience in photonics, optics, and scientific computing, currently transitioning into data analytics, AI-driven workflows, and quantitative analysis.
 
