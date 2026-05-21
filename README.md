@@ -1,6 +1,6 @@
 # Hi, I'm Pragya Tiwari
 
-Physics PhD with research experience in photonics, optics, and scientific computing, currently transitioning into data analytics, AI-driven workflows, and quantitative analysis.
+Physics PhD specializing in photonics, optics, and scientific computing, currently transitioning into data analytics, AI-driven workflows, and quantitative analysis.
 
 ## Research & Technical Interests
 - Scientific Computing
@@ -12,11 +12,10 @@ Physics PhD with research experience in photonics, optics, and scientific comput
 - Healthcare and Medical Physics Applications
 
 ## Current Focus
-- Python for Data Analysis
-- SQL and Data Querying
-- Data Visualization
-- Machine Learning Fundamentals
-- Quantitative Finance & Analytics
+- Python for Data Analysis and Scientific Computing
+- Data Visualization and Exploratory Analysis
+- Applied Machine Learning for Real-World Datasets
+- Quantitative Methods for Finance, Analytics, and Research Data
 
 ## Technical Tools
 - Python
