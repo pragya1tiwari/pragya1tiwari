@@ -27,6 +27,16 @@ Physics PhD specializing in photonics, optics, and scientific computing, current
 - Git & GitHub
 
 ## Featured Projects
+
+### Quantitative Finance
+- Multi-Stock Risk and Correlation Analysis
+- Stock Market Analysis using Python
+
+### Machine Learning
+- Customer Churn Prediction using Logistic Regression
+
+### Scientific Computing
+- Gaussian Beam Analysis and Parameter Estimation (In Progress)
 - Machine Learning Prediction Models
 - Quantitative Market Analysis (in progress)
 - Scientific Data Visualization Projects (in progress)
