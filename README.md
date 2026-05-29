@@ -42,7 +42,7 @@ Physics PhD specializing in photonics, optics, and scientific computing. I am ap
 - Customer Churn Prediction using Logistic Regression
 
 ### Scientific Computing
-- Gaussian Beam Analysis and Parameter Estimation (In Progress)
+- Gaussian Beam Analysis and Parameter Estimation
 - Machine Learning Prediction Models
 
 ## Background
